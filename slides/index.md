@@ -1,10 +1,14 @@
-
 # Mapping It Out with AngularJS
 
-From the terminal, pop in:
+## Matt Priour
 
-  ```yo reveal:slide "Slide Title"```
+### Github - [mpriour](https://github.com/mpriour)
 
-Available options:
+### [@mattpriour](https://twitter/mattpriour)
 
- ```--markdown --attributes --notes```
+### [esri](http://esri.com)
+
+____
+
+Follow along at
+<https://mpriour.github.io/ngmaps-f4g14/>
