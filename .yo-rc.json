@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Mapping It Out with AngularJS",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mpriour",
+    "githubRepository": "ngmaps-f4g14"
+  }
+}
